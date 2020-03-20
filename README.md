@@ -1,1 +1,2 @@
-# sd-assignment1
+# assignment_one
+Code for assignment 1
